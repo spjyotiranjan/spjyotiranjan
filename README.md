@@ -13,9 +13,22 @@
 
 - 📫 How to reach me **sp577152@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1h5nya2HKTTLkkHEimCY34X5tX533lcxy/view?usp=sharing](https://drive.google.com/file/d/1h5nya2HKTTLkkHEimCY34X5tX533lcxy/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1h5nya2HKTTLkkHEimCY34X5tX533lcxy/view?usp=sharing)
 
 - ⚡ Fun fact **I think I can know all of Computer Science Engineering**
+
+
+## Major Projects
+
+- ## [LearnWise(AI Learning App)](https://github.com/spjyotiranjan/Build_A_Thon)
+- ## [LudoPrism](https://github.com/spjyotiranjan/Ludo_CA2)
+- ## [Punjab Eats(First Full MERN App)](https://github.com/kalviumcommunity/S54_Food_Places)
+
+
+## Practice Projects
+
+- ## [Foodable](https://github.com/spjyotiranjan/Foodable)
+- ## [Quiz App](https://github.com/spjyotiranjan/React_CA4_Quiz_App)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
